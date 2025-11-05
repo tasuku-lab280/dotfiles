@@ -1,0 +1,10 @@
+[core]
+    editor = vim
+[alias]
+    ad = add
+    co = commit
+    br = branch
+    sw = switch
+    st = status
+    pl = pull
+    ps = push
