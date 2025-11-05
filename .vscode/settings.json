@@ -1,0 +1,7 @@
+{
+    "workbench.iconTheme": "vscode-icons", // アイコンテーマ
+    "workbench.editor.enablePreview": false, // 常に新しいタブでファイルで開く
+    "terminal.integrated.defaultProfile.osx": "zsh", // ターミナルをzshに設定
+    "terminal.integrated.suggest.enabled": true, // ターミナルでコマンドを補完   
+    "diffEditor.ignoreTrimWhitespace": false, // 空白文字の差分を無視
+}
