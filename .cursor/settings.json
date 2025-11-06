@@ -1,0 +1,17 @@
+{
+    "workbench.colorTheme": "Default Dark Modern", // カラーテーマ
+    "workbench.iconTheme": "vscode-icons", // アイコンテーマ
+    "workbench.editor.enablePreview": false, // 常に新しいタブでファイルで開く
+    "workbench.activityBar.orientation": "vertical", // アクティビティバーを垂直に設定
+    "terminal.integrated.defaultProfile.osx": "zsh", // ターミナルをzshに設定
+    "terminal.integrated.suggest.enabled": true, // ターミナルでコマンドを補完
+    "terminal.integrated.cursorBlinking": true, // ターミナルのカーソルを点滅させる
+    "diffEditor.ignoreTrimWhitespace": false, // 空白文字の差分を無視
+    "files.insertFinalNewline": true, // ファイル保存時に末尾に改行を挿入
+    "files.trimFinalNewlines": true, // ファイルの保存時に末尾の余分な改行を削除
+    "files.trimTrailingWhitespace": true, // ファイルの保存時に行末の空白文字を削除
+    "[ruby]": {
+        "editor.defaultFormatter": "Shopify.ruby-lsp",
+        "editor.rulers": [120]
+    }
+}
