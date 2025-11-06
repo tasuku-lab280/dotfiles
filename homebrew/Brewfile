@@ -1,0 +1,10 @@
+brew "git"
+brew "rbenv"
+brew "vim"
+brew "zsh"
+
+cask "slack"
+cask "karabiner-elements"
+cask "raycast"
+cask "iterm2"
+cask "docker"
