@@ -1,5 +1,8 @@
 [core]
     editor = vim
+[user]
+    name = tasuku-lab280
+    email = 56028684+tasuku-lab280@users.noreply.github.com
 [alias]
     ad = add
     co = commit
@@ -8,3 +11,4 @@
     st = status
     pl = pull
     ps = push
+    rbi = rebase -i
